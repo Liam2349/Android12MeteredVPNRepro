@@ -1,4 +1,4 @@
-# Android12MeteredVPNRepro
+# About
 On Android 12, connecting to the Private Internet Access (PIA) VPN causes my home wifi network to report as metered. This app is used in demonstrating that issue.
 
 Install this app, connect to PIA VPN, open this app, click Refresh, and note that this app reports the connection as metered.
