@@ -11,6 +11,6 @@ I have personally reproduced this issue on my Galaxy Tab S7+ running One UI 4.0 
 
 ## How does the app determine this?
 
-When the Refresh button is clicked, the apps calls the native Android.Net.ConnectivityManager.IsActiveNetworkMetered method.
+When the Refresh button is clicked, the app calls the native Android.Net.ConnectivityManager.IsActiveNetworkMetered method.
 
 I made the app open source so that PIA Support can verify this.
